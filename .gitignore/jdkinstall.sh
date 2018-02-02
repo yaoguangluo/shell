@@ -1,4 +1,4 @@
-#�л���rootȨ��  
+#ÇÐ»»µ½rootÈ¨ÏÞ  
 sudo su  
   
 cenhOS yum -y install wget
